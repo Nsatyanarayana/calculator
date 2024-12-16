@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 100px;
+    overflow: auto;
+}
+
+.card-body {
+    padding:2px;
+}
+
+button {
+    font-size: 1.2rem;
+}
+
+#result {
+    font-size: 1.5rem;
+    height: 60px;
+}
